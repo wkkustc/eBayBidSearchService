@@ -12,8 +12,13 @@ keyword search service:
 
 
 Build steps:
+
 ● use Java xml parse to parse ebay bidding history
+
 ● desgin databse schma for storing extracted useful inforamtion
+
 ● use Apache Lucene to index bidding inforamtion 
+
 ● implement two search functions: keyword search and item search
+
 ● publish search function as RESTful web service using JAX-RS and Jersey
