@@ -3,7 +3,7 @@
 
 Search item service:
 
-    provided item id, if the item exists, the service will return all the relevant infomation about the item
+   provided item id, if the item exists, the service will return all the relevant infomation about the item
     
     
 keyword search service:
@@ -13,9 +13,9 @@ keyword search service:
 
 Build steps:
 
-● use Java xml parse to parse ebay bidding history
+● use Java xml parser to parse ebay bidding history
 
-● desgin databse schma for storing extracted useful inforamtion
+● desgin databse schema for storing extracted useful inforamtion
 
 ● use Apache Lucene to index bidding inforamtion 
 
